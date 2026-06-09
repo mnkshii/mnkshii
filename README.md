@@ -15,5 +15,4 @@
 ---
 
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@MeenakshiPandey259)
+  ##⭐ Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects.
