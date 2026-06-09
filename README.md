@@ -15,4 +15,4 @@
 ---
 
 
-  ##⭐ Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects.
+  ⭐ Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects.
