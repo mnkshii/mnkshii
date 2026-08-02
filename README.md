@@ -13,6 +13,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mnkshii&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+![](https://komarev.com/ghpvc/?username=Mnkshii&label=Profile%20Views&color=0e75b6&style=flat)
 
+---
 
   ⭐ Thanks for visiting my profile! Feel free to connect and collaborate on exciting projects.
